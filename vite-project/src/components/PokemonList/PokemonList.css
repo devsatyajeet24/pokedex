@@ -1,0 +1,14 @@
+.pokemonlist-wrapper{
+    margin:auto;
+}
+.pokewrapper{
+    display:flex;
+    margin:auto ;
+    flex-direction: row;
+    flex-wrap: wrap;
+ 
+}
+.controlers{
+    margin:auto;
+  
+}
